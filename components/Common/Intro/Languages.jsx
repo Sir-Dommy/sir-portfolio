@@ -7,7 +7,7 @@ const Languages = () => {
 
     useEffect(() => {
         const timer = setInterval(() => {
-            if (Kiswahili < 98) {
+            if (Swahili < 98) {
                 setUrdu(prevCount => prevCount + 1);
             }
             if (english < 95) {
