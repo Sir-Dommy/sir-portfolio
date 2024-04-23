@@ -2,13 +2,13 @@ import { Progress } from "antd"
 import { useEffect, useState } from "react"
 
 const Languages = () => {
-    const [urdu, setUrdu] = useState(0)
+    const [swahili, setSwahili] = useState(0)
     const [english, setEnglish] = useState(0)
 
     useEffect(() => {
         const timer = setInterval(() => {
-            if (Swahili < 98) {
-                setUrdu(prevCount => prevCount + 1);
+            if (swahili < 98) {
+                setSwahili(prevCount => prevCount + 1);
             }
             if (english < 95) {
                 setEnglish(prevCount => prevCount + 1);
