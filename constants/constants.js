@@ -1,17 +1,17 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Dominick Kyengo';
 
 export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'Kenya',
+  City: 'Nairobi',
+  Age: '24',
 };
 
 export const SKILLS = [
   {
     title: 'MERN Stack Developer',
-    level: '75%',
+    level: '85%',
   },
   {
     title: 'React Developer',
@@ -23,22 +23,23 @@ export const SKILLS = [
   // },
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '87%',
   },
   {
     title: 'Technical Blogger',
-    level: '83%',
+    level: '53%',
   },
 ];
 
 export const TECH_STACK = [
+  'SpringBoot',
+  'Laravel',
   'JavaScript',
   'ReactJS',
   'NextJS',
   'TypeScript',
   'NodeJS',
   'Redux',
-  'Zustand',
   'CSS',
   'SCSS',
   'TailwindCSS',
@@ -46,22 +47,20 @@ export const TECH_STACK = [
   'Material UI',
   'Next UI',
   'REST API',
-  'MongoDB',
   'MySQL',
   'Git',
   'GitHub',
   'Jira',
   'Figma',
-  'Adobe XD',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'dominickyengo2017@gmail.com',
+  PHONE: '+254757388505',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/Sir-Dommy',
+  LINKEDIN: 'https://www.linkedin.com/in/dominic-kyengo-12b793247',
+  TWITTER: 'https://twitter.com/dommy08919045',
+  FACEBOOK: 'https://www.facebook.com/mumbe.kyengo',
 };

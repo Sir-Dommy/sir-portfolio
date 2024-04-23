@@ -2,7 +2,7 @@ const expertise = [
     {
         id: 0,
         title: 'Full Stack Development',
-        desc: 'I am a skilled MERN stack developer with extensive experience in building robust web applications using MongoDB, Express.js, React.js, and Node.js. I possess a strong understanding of server-side rendering, API integration, and database management. With my expertise, I can deliver dynamic and efficient web solutions tailored to meet the unique requirements of clients.',
+        desc: 'I am a skilled MERN stack developer with extensive experience in building robust web applications using MySQL, Java - SpringBoot, PHP - Laravel, React.js, and Node.js. I possess a strong understanding of server-side rendering, API integration, and database management. With my expertise, I can deliver dynamic and efficient web solutions tailored to meet the unique requirements of clients.',
     },
     {
         id: 1,
@@ -23,6 +23,11 @@ const expertise = [
         id: 4,
         title: 'Open Source Contributor',
         desc: "Open Source is the future. I usually take some time on weekend and contribute into opensource project. It gives me opportunity to learn from best developer's practices and also gives me a chance to help others and contribute into the community for the good.",
+    },
+    {
+        id: 5,
+        title: 'DevOps',
+        desc: "I can make use of CI/CD tool to ensure continous integration and delivery reducing down times hence increasing efficiency of systems",
     },
 ]
 

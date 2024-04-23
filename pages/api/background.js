@@ -3,56 +3,71 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
-                year: '2018-2022'
+                title: 'Kenyatta University',
+                degree: 'BSC, Computer Science',
+                detail: "Bachelor's Degree in Computer Science at Kenyatta university specializing in Information Systems.",
+                year: '2018-2023'
             },
             {
                 id: 1,
-                title: 'Peshawar Model Degree College',
-                degree: 'HSSC, Pre Engineering',
-                detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
-                year: '2015-2017'
+                title: 'Google',
+                degree: 'Data Analytics Professional Course',
+                detail: "Completed the professional training and gained a certificate for the same",
+                year: '2023-2024'
             },
             {
                 id: 2,
-                title: 'Falcon Academy',
-                degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
-                year: '2013-2015'
+                title: 'Microsoft',
+                degree: 'Micrsoft Power Platform Developer',
+                detail: "Completed the complete microsoft platform training package including, developer, associate and robotics version",
+                year: '2023-2024'
+            },
+            {
+                id: 3,
+                title: 'Oracle',
+                degree: 'Oracle Cloud Infrastructure',
+                detail: "Trained on the cloud structure of Oracle and also their hardware structure",
+                year: '2023-2024'
+            },
+            {
+                id: 3,
+                title: 'Cisco',
+                degree: 'Cyber Security Essentials',
+                detail: "Trained major security threats how to detect, prevent and correct them incase they occur",
+                year: '2023-2024'
             },
         ]
     },
     {
         expCards: [
             {
-                id: 1,
-                title: 'JMM Technologies',
-                role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                id: 3,
+                title: 'ICT Authority',
+                role: 'Software Developer',
+                url: 'https://www.icta.go.ke/',
+                desc: "I work here as a software developer, helping in the whole SDLC process from planning, deployment and Documentation of projects",
+                year: '12/2023 - 02/present',
+                location: 'Nairobi, Kenya'
             },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
-                url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'Lixnet Technologies',
+                role: 'Software Developer',
+                url: 'https://lixnet.net/',
+                desc: 'I interacted with the development team at Lixnet to create intuitive software solutions to the company clients',
+                year: '04/2023 - 12/2023',
+                location: 'Nairobi, Kenya'
             },
             {
-                id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-                year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
+                id: 1,
+                title: 'Helomobile',
+                role: 'Web Developer',
+                url: 'https://helomobile.co.ke/',
+                desc: 'As a web developer, I used React, Next & JavaScript to build user interfaces for web applications.',
+                year: '02/2021 - 03/2023',
+                location: 'Nairobi, Kenya'
             },
+            
 
         ]
     }
